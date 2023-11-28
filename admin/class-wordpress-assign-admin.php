@@ -140,7 +140,7 @@ class Wordpress_Assign_Admin {
 					'show_ui'            => true,
 					'show_in_menu'       => true,
 					'query_var'          => true,
-					'rewrite'            => array( 'slug' => 'event' ),
+					'rewrite'            => array( 'slug' => 'author' ),
 					'capability_type'    => 'post',
 					'has_archive'        => false,
 					'hierarchical'       => false,
